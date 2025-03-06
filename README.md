@@ -36,9 +36,9 @@ ScanMe is an Android application that allows users to capture images using the c
 
 ### Onboarding Screens
 <div>
-<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen1.jpg" width="250" hspace="30">
-<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen2.jpg" width="250" hspace="30">
-<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen3.jpg" width="250" hspace="30">
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen1.jpg" width="250" hspace="10">
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen2.jpg" width="250" hspace="10">
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen3.jpg" width="250" hspace="10">
 </div>
 
 ### Home Screen
