@@ -1,4 +1,4 @@
-# ScanMe
+# ScanMe: Extract text from images effortlessly!
 
 ## Overview
 ScanMe is an Android application that allows users to capture images using the camera and extract text from them using Google's ML Kit Text Recognition API.
@@ -32,18 +32,20 @@ ScanMe is an Android application that allows users to capture images using the c
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](assets/img1.png)
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/splashScreen.jpg" width="300">
 
 ### Onboarding Screens
-![Onboarding 1](assets/img_2.png)
-![Onboarding 2](assets/img_3.png)
-![Onboarding 3](assets/img4.png)
+<div>
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen1.jpg" width="250" hspace="30">
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen2.jpg" width="250" hspace="30">
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/onBoardingScreen3.jpg" width="250" hspace="30">
+</div>
 
 ### Home Screen
-![Home Screen](assets/img5.png)
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/homeScreen.jpg" width="300">
 
 ### Extracted Text Screen
-![Extracted Text](assets/img6.png)
+<img src="https://github.com/tanishka167/Scan-Me-App/blob/master/extractedText.jpg" width="300">
 
 ## Contributing
 1. Fork the repository.
